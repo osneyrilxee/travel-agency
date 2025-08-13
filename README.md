@@ -5,4 +5,4 @@
 
 // just a script
 
-Rilxee JJ copyright 2025# travel_agency
+Rilxee JJ copyright 2025#

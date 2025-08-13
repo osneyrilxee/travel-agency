@@ -6,7 +6,7 @@ import random
 destination = ("Where do you want to go? ")
 
 
-def madlibsgame(destination):
+def madlibsgame(destination=None):
     # time.sleep(2)
     objet = str(input("Choose an object: "))
     emotions = ["stupid", "happy", "exhausted", "lovely"]
@@ -21,12 +21,11 @@ def madlibsgame(destination):
         print(f"On your future trip, you will see a giant {animals}"
               f" and a/an {objet}, and you felt so {emotion} you started {verb}ing")
         
-        # must fing solution to make appear the destination value if the user entered a destination before
+        # must find solution to make appear the destination value if the user entered a destination before
 
 #Mysterious Number Game
 
 def mysteriousnumbergame():
-    # time.sleep(2)
     pick = random.randint(0, 1000)
 
     while True:
@@ -54,11 +53,11 @@ def question():
 
         if game == "Madlibs" or game == "madlibs":
             print("You will soon play to Madlibs")
-            # time.sleep(2)
+            time.sleep(2)
             print("Loading")
-            # time.sleep(5)
+            time.sleep(5)
             print("Starting")
-            # time.sleep(1)
+            time.sleep(1)
             madlibsgame()
             exit()
 
@@ -87,7 +86,7 @@ if name.isdigit():
 elif name == "":
     print("Please, don't let the input empty!")
     exit()
-    #must be repeat the code as long as the input isn't fill with string value
+    #must be repeat the code as long as the input isn't fill with string value IMPORTANT!!!!!!!!
 
 #Variable
 
@@ -102,8 +101,6 @@ countries = {
 }
 
 # main condition
-
-#maybe try for repeat the input for age until there's not an input with an interger number (for the bid end of the project)
 
 while age.isdigit:
     age = input("Enter you age: ")
