@@ -8,16 +8,18 @@ soon finish the project.
 
 ## Script
 
-main function aren't update for the moment so:
+functions which are get updated:
 
-    `def madlibsgame()`
-    `def mysteriousnumbergame()`
-    `def question()`
+- [ ] `def madlibsgame()`
+- [x] `def mysteriousnumbergame()`
+- [x] `def question()`
+
+**Maybe create a graphic interface in Rust and work on grpahic style with Vue.js**
 
 ## To-update
 
-- [ ] Make all project functions independent in a single functions.py file.
-- [ ] Protect against all errors for an optimal user experience
+- [x] Make all project functions independent in a single functions.py file.
+- [-] Protect against all errors for an optimal user experience
 - [x] Finished the main script
 
 
@@ -36,16 +38,18 @@ HamoniKR/Windows에서 작동하므로 GitHub에 스크립트 업로드,
 
 ## 스크립트
 
-현재 메인 기능이 업데이트되지 않아서:
+업데이트되는 기능:
 
-    `def madlibsgame()`
-    `def mysteriousnumbergame()`
-    `def question()`
+- [ ] `def madlibsgame()`
+- [x] `def mysteriousnumbergame()`
+- [x] `def question()`
+
+**Rust에서 그래픽 인터페이스를 만들고 Vue.js로 그래픽 스타일을 작업할 수도 있습니다.**
 
 ## 업데이트 대상
 
-- [ ] 모든 프로젝트 기능을 단일 functions.py 파일로 독립적으로 만듭니다.
-- [ ] 최적의 사용자 경험을 위해 모든 오류를 방지하세요
+- [x] 모든 프로젝트 기능을 단일 functions.py 파일로 독립적으로 만듭니다.
+- [-] 최적의 사용자 경험을 위해 모든 오류를 방지하세요
 - [x] 메인 스크립트 완료
 
 
@@ -65,17 +69,19 @@ _________________________________________________________________
 
 ## 劇本
 
-主要功能目前沒有更新，所以:
+更新後的功能:
 
-    `def madlibsgame()`
-    `def mysteriousnumbergame()`
-    `def question()`
+- [ ] `def madlibsgame()`
+- [x] `def mysteriousnumbergame()`
+- [x] `def question()`
+
+**您还可以在 Rust 中创建图形界面，并使用 Vue.js 创建图形样式。**
 
 ## 更新
 
-- 將所有項目功能獨立整合到一個文件中。
-- 保護所有錯誤以獲得最佳用戶體驗
-- 完成了主腳本
+- [x] 將所有項目功能獨立整合到一個文件中。
+- [-] 保護所有錯誤以獲得最佳用戶體驗
+- [x] 完成了主腳本
 
 
 瑞爾西·賈傑 版權所有 2025
