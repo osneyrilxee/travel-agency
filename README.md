@@ -19,7 +19,7 @@ functions which are get updated:
 ## To-update
 
 - [x] Make all project functions independent in a single functions.py file.
-- [-] Protect against all errors for an optimal user experience
+- [ ] Protect against all errors for an optimal user experience
 - [x] Finished the main script
 
 
@@ -49,7 +49,7 @@ HamoniKR/Windows에서 작동하므로 GitHub에 스크립트 업로드,
 ## 업데이트 대상
 
 - [x] 모든 프로젝트 기능을 단일 functions.py 파일로 독립적으로 만듭니다.
-- [-] 최적의 사용자 경험을 위해 모든 오류를 방지하세요
+- [ ] 최적의 사용자 경험을 위해 모든 오류를 방지하세요
 - [x] 메인 스크립트 완료
 
 
