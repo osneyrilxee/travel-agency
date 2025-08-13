@@ -14,7 +14,7 @@ functions which are get updated:
 - [x] `def mysteriousnumbergame()`
 - [x] `def question()`
 
-**Maybe create a graphic interface in Rust and work on grpahic style with Vue.js**
+**Maybe create a graphic interface in Rust and work on graphic style with Vue.js**
 
 ## To-update
 
