@@ -2,12 +2,37 @@ import time
 import random
 
 def madlibsgame(destination=None):
-    # time.sleep(2)
-    objet = str(input("Choose an object: "))
     emotions = ["stupid", "happy", "exhausted", "lovely"]
-    emotion = input("Which emotion you choose? ("+", ".join(emotions)+") ")
-    animals = str(input("Choose an animal: "))
-    verb = str(input("Choose a verb: "))
+    
+    while True:
+        objet = input("Choose an object: ")
+        if objet.isalpha():
+            break
+        else:
+            continue
+        
+    while True:
+        emotion = input("Which emotion you choose? here's some example: ("+", ".join(emotions)+"): ")
+        if emotion.isalpha():
+            break
+        else:
+            continue
+        
+    while True:
+        animals = input("Choose an animal: ")
+        if animals.isalpha():
+            break
+        else:
+            continue
+        
+    while True:
+        verb = input("Choose a verb: ")
+        if verb.isalpha():
+            break
+        else:
+            continue
+    
+    
 
     if destination:
         print(f"On your trip to {destination}, you will see a giant {animals}"

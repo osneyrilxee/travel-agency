@@ -2,17 +2,15 @@ from functions import question
 
 destination = ("Where do you want to go? ")
             
+            
+name = str("Please enter a valid name: ")
 #Name step
 while True:
-    try:
-        name = input("Enter your name: ")
-        if name.isdigit() or name == ValueError or name == "":
-            name = input("Please enter a valid name: ")
-            continue
-    except ValueError:
-        print("Please enter a valid name.")
+    name = input("Please enter your name: ")
+    if name.isalpha():
+        break
+    else:
         continue
-    break
 
 #Variable
 age = "Enter you age: "

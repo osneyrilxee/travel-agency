@@ -14,13 +14,17 @@ functions which are get updated:
 - [x] `def mysteriousnumbergame()`
 - [x] `def question()`
 
+*Only missing something in the main there is not significant but good to add*
+
 **Maybe create a graphic interface in Rust and work on grpahic style with Vue.js**
 
 ## To-update
 
 - [x] Make all project functions independent in a single functions.py file.
-- [-] Protect against all errors for an optimal user experience
+- [x] Protect against all errors for an optimal user experience
 - [x] Finished the main script
+
+
 
 
 Rilxee JJ copyright 2025
@@ -43,6 +47,8 @@ HamoniKR/Windows에서 작동하므로 GitHub에 스크립트 업로드,
 - [ ] `def madlibsgame()`
 - [x] `def mysteriousnumbergame()`
 - [x] `def question()`
+
+*메인에서 무언가를 놓치는 것만으로는 중요하지 않지만 추가하는 것이 좋습니다.*
 
 **Rust에서 그래픽 인터페이스를 만들고 Vue.js로 그래픽 스타일을 작업할 수도 있습니다.**
 
@@ -74,6 +80,8 @@ _________________________________________________________________
 - [ ] `def madlibsgame()`
 - [x] `def mysteriousnumbergame()`
 - [x] `def question()`
+
+*在主機上錯過什麼並不重要，但最好添加一些。*
 
 **您还可以在 Rust 中创建图形界面，并使用 Vue.js 创建图形样式。**
 
