@@ -14,14 +14,22 @@ functions which are get updated:
 - [x] `def mysteriousnumbergame()`
 - [x] `def question()`
 
+<<<<<<< HEAD
 *Only missing something in the main there is not significant but good to add*
 
 **Maybe create a graphic interface in Rust and work on grpahic style with Vue.js**
+=======
+**Maybe create a graphic interface in Rust and work on graphic style with Vue.js**
+>>>>>>> c1e8507d86cd544d05054d98ff1be53a6d38aec0
 
 ## To-update
 
 - [x] Make all project functions independent in a single functions.py file.
+<<<<<<< HEAD
 - [x] Protect against all errors for an optimal user experience
+=======
+- [ ] Protect against all errors for an optimal user experience
+>>>>>>> c1e8507d86cd544d05054d98ff1be53a6d38aec0
 - [x] Finished the main script
 
 
@@ -55,7 +63,7 @@ HamoniKR/Windows에서 작동하므로 GitHub에 스크립트 업로드,
 ## 업데이트 대상
 
 - [x] 모든 프로젝트 기능을 단일 functions.py 파일로 독립적으로 만듭니다.
-- [-] 최적의 사용자 경험을 위해 모든 오류를 방지하세요
+- [ ] 최적의 사용자 경험을 위해 모든 오류를 방지하세요
 - [x] 메인 스크립트 완료
 
 
@@ -88,7 +96,7 @@ _________________________________________________________________
 ## 更新
 
 - [x] 將所有項目功能獨立整合到一個文件中。
-- [-] 保護所有錯誤以獲得最佳用戶體驗
+- [ ] 保護所有錯誤以獲得最佳用戶體驗
 - [x] 完成了主腳本
 
 
