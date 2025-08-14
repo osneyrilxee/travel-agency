@@ -14,22 +14,16 @@ functions which are get updated:
 - [x] `def mysteriousnumbergame()`
 - [x] `def question()`
 
-<<<<<<< HEAD
+
 *Only missing something in the main there is not significant but good to add*
 
-**Maybe create a graphic interface in Rust and work on grpahic style with Vue.js**
-=======
 **Maybe create a graphic interface in Rust and work on graphic style with Vue.js**
->>>>>>> c1e8507d86cd544d05054d98ff1be53a6d38aec0
 
 ## To-update
 
 - [x] Make all project functions independent in a single functions.py file.
-<<<<<<< HEAD
 - [x] Protect against all errors for an optimal user experience
-=======
 - [ ] Protect against all errors for an optimal user experience
->>>>>>> c1e8507d86cd544d05054d98ff1be53a6d38aec0
 - [x] Finished the main script
 
 
