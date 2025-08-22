@@ -81,4 +81,3 @@ while age.isdigit:
             continue
 else:
     print("you're different")
-        
